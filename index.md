@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Willkommen zusammen!
 ---
 <h1> Üben </h1>
 <br/>
